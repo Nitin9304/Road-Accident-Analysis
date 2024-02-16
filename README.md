@@ -1,4 +1,4 @@
-# CASE STUDY:Road Accident Analysis
+# CASE STUDY:Road Accidents Analysis
 
 # Introduction:
 
